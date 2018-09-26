@@ -5,6 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+//Nedding to move methods and gui objects in GameObject for serialization
+
 namespace GADE6112_POE
 {
     class Map
